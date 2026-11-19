@@ -1,0 +1,11 @@
+{
+  "name": "project-x-ray-jantung-frontend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Sistem Deteksi Kardiomegali Berbasis AI & Laboratorium Praktikum Frontend React 19",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}
